@@ -1,0 +1,5 @@
+The latest source code of Firefox extension "Clear Search Bar Text On Search" that had been removed from add-ons site.
+
+The extension is created with Add-on SDK and it is not compatible with Firefox Quantum (v57+), but it works with Waterfox and Palemoon browser.
+
+You can find the xpi file in [release page](https://github.com/s101d1/searchTextRemover/releases).
