@@ -1,0 +1,13 @@
+{
+  "name": "searchtextremover",
+  "title": "Clear Search Bar Text On Search",
+  "id": "jid1-y9Xhw9SOsZoCfA@jetpack",
+  "description": "Clear Search Bar's text on search action",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.4.2",
+  "permissions": {
+    "private-browsing": true,
+    "multiprocess": true
+  }
+}
